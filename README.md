@@ -12,7 +12,6 @@ Criação de um modelo de recomendação usando dados de livros. Desde a busca, 
 2. Alinhe com  o gestor de produtos/comercial
 3. Teste, teste, teste!!
 
-
 ## Bibliotecas utilizadas
 
 - Modelagem de dados
