@@ -2,6 +2,7 @@
 
 ---
 ![](https://img.shields.io/pypi/pyversions/scipy)
+![](https://img.shields.io/github/last-commit/Lyarkh/Sistema_De_Recomendacao_Livros)
 
 
 :construction: Em construção :construction:
