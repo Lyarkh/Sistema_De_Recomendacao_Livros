@@ -1,6 +1,8 @@
 # Sistema de Recomendação de Livros | Machine Learning
 
 ---
+![](https://img.shields.io/pypi/pyversions/scipy)
+
 
 :construction: Em construção :construction:
 
