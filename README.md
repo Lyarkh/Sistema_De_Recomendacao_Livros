@@ -5,8 +5,6 @@
 ![](https://img.shields.io/github/last-commit/Lyarkh/Sistema_De_Recomendacao_Livros)
 
 
-## :construction: Em construção :construction:
-
 Criação de um modelo de recomendação usando dados de livros. Desde a busca, tratativa dos dados e preparação e criação do  modelo em si.
 
 **Dicas para criar um sistema de recomendação:**
